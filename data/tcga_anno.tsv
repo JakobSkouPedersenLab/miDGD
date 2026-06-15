@@ -1,0 +1,225 @@
+sample_id	cancer_type	primary_site	tissue_type	sample_type	color
+TCGA-69-7760-01A-11R-2170-07	LUAD	Lung	Tumor	Primary Tumor	#D2C3DF
+TCGA-ZH-A8Y4-01A-11R-A41I-07	CHOL	Bile Duct	Tumor	Primary Tumor	#104A7F
+TCGA-ZU-A8S4-01A-11R-A41I-07	CHOL	Bile Duct	Tumor	Primary Tumor	#104A7F
+TCGA-W5-AA39-01A-11R-A41I-07	CHOL	Bile Duct	Tumor	Primary Tumor	#104A7F
+TCGA-W5-AA2I-01A-32R-A41I-07	CHOL	Bile Duct	Tumor	Primary Tumor	#104A7F
+TCGA-GR-7353-01A-11R-2213-07	DLBC	Lymph Nodes	Tumor	Primary Tumor	#3953A4
+TCGA-FF-8061-01A-11R-2213-07	DLBC	Lymph Nodes	Tumor	Primary Tumor	#3953A4
+TCGA-G8-6914-01A-11R-2213-07	DLBC	Lymph Nodes	Tumor	Primary Tumor	#3953A4
+TCGA-FA-A4XK-01A-11R-A31O-07	DLBC	Lymph Nodes	Tumor	Primary Tumor	#3953A4
+TCGA-FF-A7CR-01A-11R-A38C-07	DLBC	Lymph Nodes	Tumor	Primary Tumor	#3953A4
+TCGA-G3-A3CK-01A-11R-A213-07	LIHC	Liver	Tumor	Primary Tumor	#CACDDD
+TCGA-J4-A83I-01A-11R-A36G-07	PRAD	Prostate	Tumor	Primary Tumor	#7F1717
+TCGA-HC-7081-01A-11R-1965-07	PRAD	Prostate	Tumor	Primary Tumor	#7F1717
+TCGA-KK-A8ID-01A-11R-A36G-07	PRAD	Prostate	Tumor	Primary Tumor	#7F1717
+TCGA-KO-8408-01A-11R-2315-07	KICH	Kidney	Tumor	Primary Tumor	#EE1D23
+TCGA-KL-8333-01A-11R-2315-07	KICH	Kidney	Tumor	Primary Tumor	#EE1D23
+TCGA-KM-8439-01A-11R-2315-07	KICH	Kidney	Tumor	Primary Tumor	#EE1D23
+TCGA-KL-8341-01A-11R-2315-07	KICH	Kidney	Tumor	Primary Tumor	#EE1D23
+TCGA-KL-8335-01A-11R-2315-07	KICH	Kidney	Tumor	Primary Tumor	#EE1D23
+TCGA-AB-2872-03A-01T-0735-13	LAML	Bone Marrow	Tumor	Primary Blood Derived Cancer - Peripheral Blood	#744C27
+TCGA-AB-2931-03A-01T-0740-13	LAML	Bone Marrow	Tumor	Primary Blood Derived Cancer - Peripheral Blood	#744C27
+TCGA-AB-2806-03A-01T-0734-13	LAML	Bone Marrow	Tumor	Primary Blood Derived Cancer - Peripheral Blood	#744C27
+TCGA-RW-A681-01A-11R-A35K-07	PCPG	Adrenal Gland	Tumor	Primary Tumor	#E7C41D
+TCGA-SQ-A6I6-01A-11R-A35L-07	PCPG	Adrenal Gland	Tumor	Primary Tumor	#E7C41D
+TCGA-WB-A81I-01A-11R-A35L-07	PCPG	Adrenal Gland	Tumor	Primary Tumor	#E7C41D
+TCGA-AB-2984-03A-01T-0734-13	LAML	Bone Marrow	Tumor	Primary Blood Derived Cancer - Peripheral Blood	#744C27
+TCGA-AB-2821-03A-01T-0735-13	LAML	Bone Marrow	Tumor	Primary Blood Derived Cancer - Peripheral Blood	#744C27
+TCGA-QR-A6H1-01A-11R-A35K-07	PCPG	Adrenal Gland	Tumor	Primary Tumor	#E7C41D
+TCGA-ER-A19T-01A-11R-A18T-07	SKCM	Skin	Tumor	Primary Tumor	#BAD543
+TCGA-ER-A194-01A-11R-A18U-07	SKCM	Skin	Tumor	Primary Tumor	#BAD543
+TCGA-BF-AAP6-01A-11R-A40A-07	SKCM	Skin	Tumor	Primary Tumor	#BAD543
+TCGA-FS-A1ZN-01A-11R-A18T-07	SKCM	Skin	Tumor	Primary Tumor	#BAD543
+TCGA-EB-A3HV-01A-11R-A21D-07	SKCM	Skin	Tumor	Primary Tumor	#BAD543
+TCGA-4X-A9FB-01A-11R-A42C-07	THYM	Thymus	Tumor	Primary Tumor	#CCAB8E
+TCGA-ZC-AAAA-01A-11R-A42S-07	THYM	Thymus	Tumor	Primary Tumor	#CCAB8E
+TCGA-ZB-A96E-01A-11R-A42S-07	THYM	Thymus	Tumor	Primary Tumor	#CCAB8E
+TCGA-PC-A5DK-01A-11R-A27Q-07	SARC	Soft Tissue	Tumor	Primary Tumor	#00A99D
+TCGA-DX-A2J4-01A-32R-A21T-07	SARC	Soft Tissue	Tumor	Primary Tumor	#00A99D
+TCGA-OR-A5JI-01A-11R-A29S-07	ACC	Adrenal Gland	Tumor	Primary Tumor	#CCAB8E
+TCGA-OR-A5JC-01A-11R-A29S-07	ACC	Adrenal Gland	Tumor	Primary Tumor	#CCAB8E
+TCGA-CV-7183-01A-11R-2016-07	HNSC	Head and Neck	Tumor	Primary Tumor	#97D1A9
+TCGA-WZ-A7V4-01A-11R-A431-07	TGCT	Testis	Tumor	Primary Tumor	#BE1D2C
+TCGA-XE-A8H4-01A-31R-A431-07	TGCT	Testis	Tumor	Primary Tumor	#BE1D2C
+TCGA-MT-A51X-01A-11R-A266-07	HNSC	Head and Neck	Tumor	Primary Tumor	#97D1A9
+TCGA-CN-A642-01A-12R-A30B-07	HNSC	Head and Neck	Tumor	Primary Tumor	#97D1A9
+TCGA-F2-A7TX-01A-33R-A38C-07	PAAD	Pancreas	Tumor	Primary Tumor	#6E7BA3
+TCGA-US-A77E-01A-11R-A32O-07	PAAD	Pancreas	Tumor	Primary Tumor	#6E7BA3
+TCGA-J7-6720-01A-11R-2139-07	KIRP	Kidney	Tumor	Primary Tumor	#EB6F76
+TCGA-P4-AAVL-01A-11R-A42S-07	KIRP	Kidney	Tumor	Primary Tumor	#EB6F76
+TCGA-F2-6879-01A-11R-2156-07	PAAD	Pancreas	Tumor	Primary Tumor	#6E7BA3
+TCGA-2Z-A9JP-01A-11R-A42S-07	KIRP	Kidney	Tumor	Primary Tumor	#EB6F76
+TCGA-2L-AAQI-01A-12R-A39D-07	PAAD	Pancreas	Tumor	Primary Tumor	#6E7BA3
+TCGA-AD-6890-01A-11R-1928-07	COAD	Colorectal	Tumor	Primary Tumor	#9EDCF8
+TCGA-AY-A8YK-01A-11R-A41B-07	COAD	Colorectal	Tumor	Primary Tumor	#9EDCF8
+TCGA-OR-A5LK-01A-11R-A29S-07	ACC	Adrenal Gland	Tumor	Primary Tumor	#CCAB8E
+TCGA-OR-A5J8-01A-11R-A29S-07	ACC	Adrenal Gland	Tumor	Primary Tumor	#CCAB8E
+TCGA-OR-A5JX-01A-11R-A29S-07	ACC	Adrenal Gland	Tumor	Primary Tumor	#CCAB8E
+TCGA-BA-5558-01A-01R-1514-07	HNSC	Head and Neck	Tumor	Primary Tumor	#97D1A9
+TCGA-MZ-A6I9-01A-11R-A31N-07	HNSC	Head and Neck	Tumor	Primary Tumor	#97D1A9
+TCGA-IB-AAUV-01A-11R-A38C-07	PAAD	Pancreas	Tumor	Primary Tumor	#6E7BA3
+TCGA-XE-AANV-01A-11R-A431-07	TGCT	Testis	Tumor	Primary Tumor	#BE1D2C
+TCGA-SB-A76C-01A-11R-A431-07	TGCT	Testis	Tumor	Primary Tumor	#BE1D2C
+TCGA-XE-AAO4-01A-11R-A431-07	TGCT	Testis	Tumor	Primary Tumor	#BE1D2C
+TCGA-2G-AAHT-01A-11R-A430-07	TGCT	Testis	Tumor	Primary Tumor	#BE1D2C
+TCGA-2G-AAKH-01A-11R-A430-07	TGCT	Testis	Tumor	Primary Tumor	#BE1D2C
+TCGA-KL-8346-01A-11R-2315-07	KICH	Kidney	Tumor	Primary Tumor	#EE1D23
+TCGA-2Z-A9J8-01A-11R-A42S-07	KIRP	Kidney	Tumor	Primary Tumor	#EB6F76
+TCGA-B9-4617-01A-01R-1193-07	KIRP	Kidney	Tumor	Primary Tumor	#EB6F76
+TCGA-WN-A9G9-01A-12R-A37K-07	KIRP	Kidney	Tumor	Primary Tumor	#EB6F76
+TCGA-3H-AB3U-01A-21R-A40A-07	MESO	Pleura	Tumor	Primary Tumor	#542C88
+TCGA-MQ-A6BS-01A-12R-A34F-07	MESO	Pleura	Tumor	Primary Tumor	#542C88
+TCGA-UT-A88C-01B-11R-A40A-07	MESO	Pleura	Tumor	Primary Tumor	#542C88
+TCGA-SH-A7BD-01A-11R-A34F-07	MESO	Pleura	Tumor	Primary Tumor	#542C88
+TCGA-B8-5545-01A-01R-1672-07	KIRC	Kidney	Tumor	Primary Tumor	#F8AEB2
+TCGA-BP-5185-01A-01R-1426-07	KIRC	Kidney	Tumor	Primary Tumor	#F8AEB2
+TCGA-BP-4166-01A-02R-1289-07	KIRC	Kidney	Tumor	Primary Tumor	#F8AEB2
+TCGA-CZ-5464-01A-01R-1503-07	KIRC	Kidney	Tumor	Primary Tumor	#F8AEB2
+TCGA-3U-A98F-01A-11R-A40A-07	MESO	Pleura	Tumor	Primary Tumor	#542C88
+TCGA-TS-A8AV-01A-12R-A40A-07	MESO	Pleura	Tumor	Primary Tumor	#542C88
+TCGA-TS-A7OZ-01A-21R-A40A-07	MESO	Pleura	Tumor	Primary Tumor	#542C88
+TCGA-B2-4099-01A-02R-1188-07	KIRC	Kidney	Tumor	Primary Tumor	#F8AEB2
+TCGA-DJ-A2PP-01A-11R-A19O-07	THCA	Thyroid	Tumor	Primary Tumor	#F4ED2F
+TCGA-QH-A6XC-01A-12R-A32Q-07	LGG	Brain	Tumor	Primary Tumor	#D49DC6
+TCGA-QH-A6X4-01A-51R-A32Q-07	LGG	Brain	Tumor	Primary Tumor	#D49DC6
+TCGA-TQ-A7RH-01A-12R-A34F-07	LGG	Brain	Tumor	Primary Tumor	#D49DC6
+TCGA-HT-7468-01A-11R-2027-07	LGG	Brain	Tumor	Primary Tumor	#D49DC6
+TCGA-IG-A3QL-01A-11R-A24K-31	ESCA	Esophagus	Tumor	Primary Tumor	#007DB4
+TCGA-LN-A49Y-01A-11R-A260-31	ESCA	Esophagus	Tumor	Primary Tumor	#007DB4
+TCGA-L5-A4OU-01A-11R-A28J-31	ESCA	Esophagus	Tumor	Primary Tumor	#007DB4
+TCGA-R6-A6KZ-01A-11R-A31P-31	ESCA	Esophagus	Tumor	Primary Tumor	#007DB4
+TCGA-R6-A6L4-01A-11R-A31P-31	ESCA	Esophagus	Tumor	Primary Tumor	#007DB4
+TCGA-DD-AADR-01A-11R-A41C-07	LIHC	Liver	Tumor	Primary Tumor	#CACDDD
+TCGA-UB-A7MD-01A-12R-A352-07	LIHC	Liver	Tumor	Primary Tumor	#CACDDD
+TCGA-G9-6365-01A-11R-1789-07	PRAD	Prostate	Tumor	Primary Tumor	#7F1717
+TCGA-G9-6353-01A-11R-1965-07	PRAD	Prostate	Tumor	Primary Tumor	#7F1717
+TCGA-EJ-5532-01A-01R-1580-07	PRAD	Prostate	Tumor	Primary Tumor	#7F1717
+TCGA-DD-AADO-01A-11R-A41C-07	LIHC	Liver	Tumor	Primary Tumor	#CACDDD
+TCGA-DD-AACJ-01A-11R-A41C-07	LIHC	Liver	Tumor	Primary Tumor	#CACDDD
+TCGA-HC-A8D1-01A-11R-A36G-07	PRAD	Prostate	Tumor	Primary Tumor	#7F1717
+TCGA-GU-AATQ-01A-11R-A39I-07	BLCA	Bladder	Tumor	Primary Tumor	#F9D2DB
+TCGA-R3-A69X-01A-22R-A30C-07	BLCA	Bladder	Tumor	Primary Tumor	#F9D2DB
+TCGA-DK-A1AE-01A-11R-A13Y-07	BLCA	Bladder	Tumor	Primary Tumor	#F9D2DB
+TCGA-D7-A4YX-01A-11R-A251-31	STAD	Stomach	Tumor	Primary Tumor	#00AEEF
+TCGA-IN-7806-01A-11R-2055-13	STAD	Stomach	Tumor	Primary Tumor	#00AEEF
+TCGA-MX-A663-01A-11R-A31P-31	STAD	Stomach	Tumor	Primary Tumor	#00AEEF
+TCGA-77-8156-01A-11R-2247-07	LUSC	Lung	Tumor	Primary Tumor	#A084BD
+TCGA-37-A5EM-01A-21R-A27Q-07	LUSC	Lung	Tumor	Primary Tumor	#A084BD
+TCGA-18-4086-01A-01R-1100-07	LUSC	Lung	Tumor	Primary Tumor	#A084BD
+TCGA-56-5897-01A-11R-1635-07	LUSC	Lung	Tumor	Primary Tumor	#A084BD
+TCGA-18-3412-01A-01R-0980-07	LUSC	Lung	Tumor	Primary Tumor	#A084BD
+TCGA-CF-A9FM-01A-11R-A38B-07	BLCA	Bladder	Tumor	Primary Tumor	#F9D2DB
+TCGA-DK-AA6X-01A-12R-A42T-07	BLCA	Bladder	Tumor	Primary Tumor	#F9D2DB
+TCGA-39-5027-01A-21R-1820-07	LUSC	Lung	Tumor	Primary Tumor	#A084BD
+TCGA-V3-A9ZY-01A-11R-A405-07	UVM	Eye	Tumor	Primary Tumor	#0D9344
+TCGA-VD-A8KJ-01A-11R-A405-07	UVM	Eye	Tumor	Primary Tumor	#0D9344
+TCGA-VD-A8KO-01A-11R-A405-07	UVM	Eye	Tumor	Primary Tumor	#0D9344
+TCGA-V4-A9ET-01A-11R-A405-07	UVM	Eye	Tumor	Primary Tumor	#0D9344
+TCGA-VD-AA8M-01A-11R-A405-07	UVM	Eye	Tumor	Primary Tumor	#0D9344
+TCGA-44-6148-01A-11R-1755-07	LUAD	Lung	Tumor	Primary Tumor	#D2C3DF
+TCGA-2F-A9KT-01A-11R-A38B-07	BLCA	Bladder	Tumor	Primary Tumor	#F9D2DB
+TCGA-AR-A1AV-01A-21R-A12P-07	BRCA	Breast	Tumor	Primary Tumor	#ED1E91
+TCGA-38-4630-01A-01R-1206-07	LUAD	Lung	Tumor	Primary Tumor	#D2C3DF
+TCGA-38-6178-01A-11R-1755-07	LUAD	Lung	Tumor	Primary Tumor	#D2C3DF
+TCGA-97-A4M0-01A-11R-A24X-07	LUAD	Lung	Tumor	Primary Tumor	#D2C3DF
+TCGA-MP-A4TA-01A-21R-A24X-07	LUAD	Lung	Tumor	Primary Tumor	#D2C3DF
+TCGA-IN-AB1X-01A-11R-A39E-31	STAD	Stomach	Tumor	Primary Tumor	#00AEEF
+TCGA-55-7281-01A-11R-2039-07	LUAD	Lung	Tumor	Primary Tumor	#D2C3DF
+TCGA-AY-6386-01A-21R-1723-07	COAD	Colorectal	Tumor	Primary Tumor	#9EDCF8
+TCGA-F4-6461-01A-11R-1774-07	COAD	Colorectal	Tumor	Primary Tumor	#9EDCF8
+TCGA-GS-A9TW-01A-11R-A38C-07	DLBC	Lymph Nodes	Tumor	Primary Tumor	#3953A4
+TCGA-ZD-A8I3-01A-11R-A41I-07	CHOL	Bile Duct	Tumor	Primary Tumor	#104A7F
+TCGA-W5-AA2W-01A-11R-A41I-07	CHOL	Bile Duct	Tumor	Primary Tumor	#104A7F
+TCGA-W5-AA34-01A-11R-A41I-07	CHOL	Bile Duct	Tumor	Primary Tumor	#104A7F
+TCGA-GS-A9TV-01A-11R-A38C-07	DLBC	Lymph Nodes	Tumor	Primary Tumor	#3953A4
+TCGA-KM-8441-01A-11R-2315-07	KICH	Kidney	Tumor	Primary Tumor	#EE1D23
+TCGA-AB-2964-03A-01T-0734-13	LAML	Bone Marrow	Tumor	Primary Blood Derived Cancer - Peripheral Blood	#744C27
+TCGA-AB-2810-03A-01T-0736-13	LAML	Bone Marrow	Tumor	Primary Blood Derived Cancer - Peripheral Blood	#744C27
+TCGA-QR-A702-01A-11R-A35K-07	PCPG	Adrenal Gland	Tumor	Primary Tumor	#E7C41D
+TCGA-SP-A6QG-01A-12R-A35L-07	PCPG	Adrenal Gland	Tumor	Primary Tumor	#E7C41D
+TCGA-WB-A81H-01A-11R-A35L-07	PCPG	Adrenal Gland	Tumor	Primary Tumor	#E7C41D
+TCGA-N7-A4Y5-01A-12R-A28V-07	UCS	Uterus	Tumor	Primary Tumor	#F79420
+TCGA-XM-A8RH-01A-11R-A42C-07	THYM	Thymus	Tumor	Primary Tumor	#CCAB8E
+TCGA-BF-A1PV-01A-11R-A18U-07	SKCM	Skin	Tumor	Primary Tumor	#BAD543
+TCGA-X7-A8M0-01A-11R-A42C-07	THYM	Thymus	Tumor	Primary Tumor	#CCAB8E
+TCGA-N5-A4RA-01A-11R-A28V-07	UCS	Uterus	Tumor	Primary Tumor	#F79420
+TCGA-N5-A4RD-01A-11R-A28V-07	UCS	Uterus	Tumor	Primary Tumor	#F79420
+TCGA-N5-A59F-01A-11R-A28V-07	UCS	Uterus	Tumor	Primary Tumor	#F79420
+TCGA-N5-A4RU-01A-31R-A28V-07	UCS	Uterus	Tumor	Primary Tumor	#F79420
+TCGA-XU-A931-01A-11R-A42C-07	THYM	Thymus	Tumor	Primary Tumor	#CCAB8E
+TCGA-XU-AAY0-01A-11R-A42C-07	THYM	Thymus	Tumor	Primary Tumor	#CCAB8E
+TCGA-N6-A4VD-01A-11R-A28V-07	UCS	Uterus	Tumor	Primary Tumor	#F79420
+TCGA-N5-A4RF-01A-11R-A28V-07	UCS	Uterus	Tumor	Primary Tumor	#F79420
+TCGA-LI-A9QH-01A-11R-A37L-07	SARC	Soft Tissue	Tumor	Primary Tumor	#00A99D
+TCGA-WK-A8XT-01A-11R-A37L-07	SARC	Soft Tissue	Tumor	Primary Tumor	#00A99D
+TCGA-IW-A3M4-01A-11R-A21T-07	SARC	Soft Tissue	Tumor	Primary Tumor	#00A99D
+TCGA-VT-A80J-01A-11R-A36F-07	SARC	Soft Tissue	Tumor	Primary Tumor	#00A99D
+TCGA-X9-A971-01A-11R-A38C-07	SARC	Soft Tissue	Tumor	Primary Tumor	#00A99D
+TCGA-HR-A5NC-01A-11R-A27Q-07	SKCM	Skin	Tumor	Primary Tumor	#BAD543
+TCGA-CV-6953-01A-11R-1915-07	HNSC	Head and Neck	Tumor	Primary Tumor	#97D1A9
+TCGA-US-A779-01A-11R-A32O-07	PAAD	Pancreas	Tumor	Primary Tumor	#6E7BA3
+TCGA-2J-AABT-01A-11R-A41B-07	PAAD	Pancreas	Tumor	Primary Tumor	#6E7BA3
+TCGA-AL-A5DJ-01A-11R-A26U-07	KIRP	Kidney	Tumor	Primary Tumor	#EB6F76
+TCGA-F4-6807-01A-11R-1839-07	COAD	Colorectal	Tumor	Primary Tumor	#9EDCF8
+TCGA-OR-A5JM-01A-11R-A29S-07	ACC	Adrenal Gland	Tumor	Primary Tumor	#CCAB8E
+TCGA-OR-A5JY-01A-31R-A29S-07	ACC	Adrenal Gland	Tumor	Primary Tumor	#CCAB8E
+TCGA-A6-2672-01A-01R-0826-07	COAD	Colorectal	Tumor	Primary Tumor	#9EDCF8
+TCGA-AA-3514-01A-02R-0821-07	COAD	Colorectal	Tumor	Primary Tumor	#9EDCF8
+TCGA-CN-4722-01A-01R-1436-07	HNSC	Head and Neck	Tumor	Primary Tumor	#97D1A9
+TCGA-AX-A0J0-01A-11R-A109-07	UCEC	Uterus	Tumor	Primary Tumor	#FBE3C7
+TCGA-D1-A17L-01A-11R-A12I-07	UCEC	Uterus	Tumor	Primary Tumor	#FBE3C7
+TCGA-B4-5377-01A-01R-1503-07	KIRC	Kidney	Tumor	Primary Tumor	#F8AEB2
+TCGA-A5-A1OG-01A-11R-A14D-07	UCEC	Uterus	Tumor	Primary Tumor	#FBE3C7
+TCGA-FI-A2EY-01A-12R-A18M-07	UCEC	Uterus	Tumor	Primary Tumor	#FBE3C7
+TCGA-EY-A2OM-01A-11R-A18M-07	UCEC	Uterus	Tumor	Primary Tumor	#FBE3C7
+TCGA-B5-A0K3-01A-11R-A040-07	UCEC	Uterus	Tumor	Primary Tumor	#FBE3C7
+TCGA-AX-A2HA-01A-12R-A18M-07	UCEC	Uterus	Tumor	Primary Tumor	#FBE3C7
+TCGA-KS-A4IC-01A-11R-A250-07	THCA	Thyroid	Tumor	Primary Tumor	#F4ED2F
+TCGA-EM-A3O6-01A-11R-A220-07	THCA	Thyroid	Tumor	Primary Tumor	#F4ED2F
+TCGA-EL-A3CP-01A-11R-A19O-07	THCA	Thyroid	Tumor	Primary Tumor	#F4ED2F
+TCGA-DV-5567-01A-01R-1541-07	KIRC	Kidney	Tumor	Primary Tumor	#F8AEB2
+TCGA-EM-A3FJ-01A-11R-A21D-07	THCA	Thyroid	Tumor	Primary Tumor	#F4ED2F
+TCGA-KS-A4I7-01A-11R-A250-07	THCA	Thyroid	Tumor	Primary Tumor	#F4ED2F
+TCGA-FU-A3HZ-01A-11R-A213-07	CESC	Cervix	Tumor	Primary Tumor	#F7B666
+TCGA-EX-A69M-01A-11R-A32P-07	CESC	Cervix	Tumor	Primary Tumor	#F7B666
+TCGA-VS-A9V4-01A-12R-A42T-07	CESC	Cervix	Tumor	Primary Tumor	#F7B666
+TCGA-Q1-A6DW-01A-11R-A32P-07	CESC	Cervix	Tumor	Primary Tumor	#F7B666
+TCGA-EA-A556-01A-11R-A26T-07	CESC	Cervix	Tumor	Primary Tumor	#F7B666
+TCGA-EA-A97N-01A-11R-A38B-07	CESC	Cervix	Tumor	Primary Tumor	#F7B666
+TCGA-C5-A7X5-01A-11R-A36F-07	CESC	Cervix	Tumor	Primary Tumor	#F7B666
+TCGA-DU-7298-01A-11R-2027-07	LGG	Brain	Tumor	Primary Tumor	#D49DC6
+TCGA-DB-5270-01A-02R-1470-07	LGG	Brain	Tumor	Primary Tumor	#D49DC6
+TCGA-DU-A5TY-01A-11R-A28M-07	LGG	Brain	Tumor	Primary Tumor	#D49DC6
+TCGA-EM-A2OY-01A-11R-A206-07	THCA	Thyroid	Tumor	Primary Tumor	#F4ED2F
+TCGA-L5-A43M-01A-11R-A24K-31	ESCA	Esophagus	Tumor	Primary Tumor	#007DB4
+TCGA-JY-A93F-01A-21R-A37I-31	ESCA	Esophagus	Tumor	Primary Tumor	#007DB4
+TCGA-2Y-A9GY-01A-11R-A38B-07	LIHC	Liver	Tumor	Primary Tumor	#CACDDD
+TCGA-AG-3605-01A-01R-0826-07	READ	Colorectal	Tumor	Primary Tumor	#DAF1FC
+TCGA-AG-3881-01A-01R-0905-07	READ	Colorectal	Tumor	Primary Tumor	#DAF1FC
+TCGA-DC-6154-01A-31R-1928-07	READ	Colorectal	Tumor	Primary Tumor	#DAF1FC
+TCGA-AG-3612-01A-01R-0826-07	READ	Colorectal	Tumor	Primary Tumor	#DAF1FC
+TCGA-AG-4021-01A-01R-1736-07	READ	Colorectal	Tumor	Primary Tumor	#DAF1FC
+TCGA-AG-A025-01A-01R-A00A-07	READ	Colorectal	Tumor	Primary Tumor	#DAF1FC
+TCGA-F5-6863-01A-11R-1928-07	READ	Colorectal	Tumor	Primary Tumor	#DAF1FC
+TCGA-DD-AADI-01A-11R-A41C-07	LIHC	Liver	Tumor	Primary Tumor	#CACDDD
+TCGA-30-1714-01A-02R-1567-13	OV	Ovary	Tumor	Primary Tumor	#DA7D27
+TCGA-29-1781-01A-01R-1567-13	OV	Ovary	Tumor	Primary Tumor	#DA7D27
+TCGA-13-0919-01A-01R-1564-13	OV	Ovary	Tumor	Primary Tumor	#DA7D27
+TCGA-24-1548-01A-01R-1566-13	OV	Ovary	Tumor	Primary Tumor	#DA7D27
+TCGA-13-2060-01A-01R-1568-13	OV	Ovary	Tumor	Primary Tumor	#DA7D27
+TCGA-BR-8296-01A-11R-2343-13	STAD	Stomach	Tumor	Primary Tumor	#00AEEF
+TCGA-YF-AA3L-01A-11R-A38B-07	BLCA	Bladder	Tumor	Primary Tumor	#F9D2DB
+TCGA-CG-4466-01A-01R-1157-13	STAD	Stomach	Tumor	Primary Tumor	#00AEEF
+TCGA-BR-6566-01A-11R-1802-13	STAD	Stomach	Tumor	Primary Tumor	#00AEEF
+TCGA-25-2398-01A-01R-1569-13	OV	Ovary	Tumor	Primary Tumor	#DA7D27
+TCGA-04-1648-01A-01R-1567-13	OV	Ovary	Tumor	Primary Tumor	#DA7D27
+TCGA-60-2714-01A-01R-0851-07	LUSC	Lung	Tumor	Primary Tumor	#A084BD
+TCGA-RZ-AB0B-01A-11R-A405-07	UVM	Eye	Tumor	Primary Tumor	#0D9344
+TCGA-V4-A9F3-01A-11R-A405-07	UVM	Eye	Tumor	Primary Tumor	#0D9344
+TCGA-AC-A3W7-01A-11R-A22K-07	BRCA	Breast	Tumor	Primary Tumor	#ED1E91
+TCGA-E2-A14Y-01A-21R-A12D-07	BRCA	Breast	Tumor	Primary Tumor	#ED1E91
+TCGA-E2-A15A-01A-11R-A12D-07	BRCA	Breast	Tumor	Primary Tumor	#ED1E91
+TCGA-AO-A0J9-01A-11R-A034-07	BRCA	Breast	Tumor	Primary Tumor	#ED1E91
+TCGA-AC-A2BK-01A-11R-A21T-07	BRCA	Breast	Tumor	Primary Tumor	#ED1E91
+TCGA-D8-A73U-01A-11R-A33J-07	BRCA	Breast	Tumor	Primary Tumor	#ED1E91
